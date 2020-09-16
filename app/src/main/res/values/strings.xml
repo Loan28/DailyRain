@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DailyRain</string>
+    <string name="notify_me">Notify me!</string>
+    <string name="channel_name">CHANNEL ANDROID</string>
+    <string name="channel_description">Rain notification</string>
+
+</resources>
