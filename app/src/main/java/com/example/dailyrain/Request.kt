@@ -11,7 +11,6 @@ class Request(private val url: String) {
         val forecastJsonStr = URL(url).readText()
         val jsonArray = JSONArray(forecastJsonStr)
         return jsonArray
-
     }
 
 }
